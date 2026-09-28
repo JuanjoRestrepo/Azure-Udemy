@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Section_6___Azure_Functions_in_Different_Languages": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7248",
+      "launchBrowser": false
+    }
+  }
+}
