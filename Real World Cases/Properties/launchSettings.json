@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Real_World_Cases": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7093",
+      "launchBrowser": false
+    }
+  }
+}
