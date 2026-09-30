@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@azure/functions": "^4.0.0",
+    "@sendgrid/mail": "^8.1.6",
     "axios": "^1.20.0"
   },
   "main": "src/{index.js,functions/*.js}"
