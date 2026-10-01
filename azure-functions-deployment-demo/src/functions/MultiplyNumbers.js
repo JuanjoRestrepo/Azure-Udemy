@@ -2,7 +2,7 @@
 
 app.http('MultiplyNumbers', {
     methods: ['GET'],
-    authLevel: 'anonymous',
+    authLevel: 'function',
     handler: async (request, context) => {
         context.log(`Http function processed request for url "${request.url}"`);
 
